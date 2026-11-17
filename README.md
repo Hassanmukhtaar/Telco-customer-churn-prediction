@@ -67,8 +67,8 @@ Evaluated on the test set (1,409 customers: 1,036 stayed, 373 churned).
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/Hassanmukhtaar/Telco-customer-churn-prediction.git
+cd Telco-customer-churn-prediction
    ```
 2. Install the libraries
    ```bash
